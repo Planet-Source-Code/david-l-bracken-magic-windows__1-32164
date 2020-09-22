@@ -1,0 +1,24 @@
+Magic Windows ver 1.0
+
+Have you ever wanted to have a form that would slide out from behind another form, like a tray? Well now you can.
+
+Simply Drop this control onto a form(the one you will use as the tray) and from anywhere in code you call 2 methods. One will Slide the form out, The other retracts the form back.
+
+You can set the "tray" form to slide out to the right, left, top. or bottom. You can set it to slide out on top of the calling form, or behind the calling form.
+
+It will only wok if forms are not set to 0-borderless.
+
+LICENSE AGREEMENT ***
+You may use this software for non-commercial use only! If you wish to use it commercially you must obtain a license from me. Send license requests to richocet2@hotmail.com
+
+
+***Disclaimer***
+USE AT YOUR OWN RISK!
+I will not be held responsible for any damage caused by the use of this software.
+
+That having been said, i have tested this in VB6 only, and on Win XP & WinME only. I have had no problems myself.
+If you find a bug, please send a report to richocet2@hotmail.com
+Send any comments or suggestions as well.
+
+Enjoy, and please vote on PSC if you like this.
+Thank you
